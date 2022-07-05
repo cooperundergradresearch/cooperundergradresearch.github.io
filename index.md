@@ -1,7 +1,2 @@
-## Cooper Union Undergraduate Research Symposium!
-
-You can use the [editor on GitHub](https://github.com/cooperundergradresearch/cooperundergradresearch.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Cooper Union Undergraduate Research Symposium
+Cooper Union Undergraduate Research Club led by Sangjoon (Bob) Lee and Naomi Akiyama serves to promote academic research for Cooper Union undergraduate students. We plan to achieve the goal by organizing an annual Cooper Union Undergraduate Research Symposium event which brings students and faculty advisors to present their work at the Rose Auditorium.
